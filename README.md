@@ -1,4 +1,4 @@
-## 💫 About Me
+# 💫 About Me
 
 Hi 👋 I'm Priyanka Shaw
 
@@ -10,8 +10,8 @@ Hi 👋 I'm Priyanka Shaw
 
 ⚙️ Interested in Computer Vision, Generative AI, Medical AI, and full-stack AI applications.
 
-# 🛠 Tech Stack
-Programming
+### 🛠 Tech Stack
+#### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
