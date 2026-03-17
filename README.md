@@ -16,35 +16,35 @@ Hi 👋 I'm Priyanka Shaw
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-ML / AI Frameworks
-#### Programming
+#### ML / AI Frameworks
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-LLM_Framework-black?style=for-the-badge)
 
-Generative AI / LLM
-#### Programming
+#### Generative AI / LLM
+
 ![LangChain](https://img.shields.io/badge/LangChain-LLM_Framework-black?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-LLM_Architecture-blue?style=for-the-badge)
 ![VectorDB](https://img.shields.io/badge/Vector-Database-purple?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
 
-Deep Learning Concepts
-#### Programming
+#### Deep Learning Concepts
+
 ![CNN](https://img.shields.io/badge/CNN-Deep_Learning-red?style=for-the-badge)
 ![Predictive Modeling](https://img.shields.io/badge/Predictive-Modeling-blue?style=for-the-badge)
 ![Classification](https://img.shields.io/badge/Classification-ML-green?style=for-the-badge)
 
-Data Engineering
-#### Programming
+#### Data Engineering
+
 ![Data Pipelines](https://img.shields.io/badge/Data-Pipelines-yellow?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-blue?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/EDA-Data_Analysis-purple?style=for-the-badge)
 
 
 #### Data Visualization
-#### Programming
+
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
@@ -52,20 +52,20 @@ Data Engineering
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
-Web & AI Application Development
+#### Web & AI Application Development
 ![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
 
-Backend / APIs
+#### Backend / APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-🧠 AI / ML Domains
+#### AI / ML Domains
 
 Computer Vision • Generative AI • Medical AI • Predictive Modeling
 
-📚 Concepts
+#### Concepts
 
 RAG • CNNs • Classification • Data Pipelines • Model Deployment
 Prompt Engineering • Vector Databases • AI Agents • Reasoning Pipelines
